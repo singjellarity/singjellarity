@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Majella Imperial!
-- 🌱 I’m an aspiring Data Analyst with a degree in Electronics Engineering from the Technical Institute of the Philippines - Quezon City.
+- 🌱 I’m an aspiring Data Analyst with a degree in Electronics Engineering from the Technological Institute of the Philippines - Quezon City.
 - 👀 I have an interest in data analytics, automation, machine learning, and data science.
 - 🏆 I recently completed [Google's Professional Data Analytics Specialization.](https://www.coursera.org/account/accomplishments/specialization/certificate/A9QTAS5TVTDP)
 - ✍️ In my spare time, I write Filipino and English romance novels on Wattpad (but I'm not linking that for now, just believe me when I say I have a total of 36.6k followers and 8M total reads.)
