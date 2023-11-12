@@ -2,7 +2,8 @@
 
 # 👋 Hi, please call me Majella!
 - 🌱 I’m an aspiring Data Analyst with a degree in Electronics Engineering from the Technological Institute of the Philippines - Quezon City.
-- 👀 I have an interest in data analytics, automation, machine learning, and data science.
+- 👀 I have an interest in data analytics, data science, automation, and machine learning.
+- 📜 My undergraduate design project is titled "Design of Heart Arrhythmia Detection in ECG Beats Utilizing Machine Learning Algorithm with Signal Processing".
 - 🏆 I recently completed [Google's Professional Data Analytics Specialization.](https://www.coursera.org/account/accomplishments/specialization/certificate/A9QTAS5TVTDP)
 - ✍️ In my spare time, I write Filipino and English romance novels on Wattpad (but I'm not linking that for now, just believe me when I say I have a total of 36.6k followers and 8M total reads.)
 - 📚 I used to be a voracious consumer of fiction and young adult books, but now I take my time enjoying Philippine History, business, and self-help books.
