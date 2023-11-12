@@ -10,7 +10,7 @@
 ## Language & Tools 👩‍💻
 - Python, SQL, R, C, MATLAB, HTML
 - Tableau, BigQuery, RStudio, JupyterLab, Jupyter Notebook
-- NumPy, pandas, Matplotlib, Seaborn, Keras, TensorFlow
+- NumPy, pandas, Matplotlib, Seaborn, Keras, TensorFlow, scikit-learn
 
 ## Find me on 🌐
 - LinkedIn: [Mary Majella Imperial](https://www.linkedin.com/in/majellaimperial/)
