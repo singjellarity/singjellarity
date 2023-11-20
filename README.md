@@ -22,10 +22,16 @@
 Send me an email at
 majella.imperial@gmail.com
 
-## Favorite quotes: 🌹
-- "Ars longa, vita brevis." --Hippocrates. (Translated from Latin, "Skilfulness takes time and life is short."
-- "The rose is lovely, forget the thorns."
-- "Mind over matter."
+## Favorite quote: 🌹
+> "Ars longa, vita brevis."</br>
+> Translated from Latin, "Skilfulness takes time and life is short." </br>
+-- Hippocrates. 
+
+# View some of my pinned projects below:
+- [PCSO Lottery Case Study](https://github.com/singjellarity/PCSO-Lottery-Case-Study) - A study on the PCSO 6 digit lottery games.
+- [Heart Arrhythmia Detection in ECG](https://github.com/singjellarity/Heart-Arrhythmia-Detection-in-ECG) - My undergraduate design project.
+- [Vehicle Detection and Counter System](https://github.com/singjellarity/Vehicle-Detection-and-Counter-System) - Python project that does vehicle detection and counting.
+- [Line Follower Robot](https://github.com/singjellarity/Line-Follower-Robot) - Design of a Wheeled Robot Using a Line Sensor and Arduino Uno.
 
 <!---
 singjellarity/singjellarity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
