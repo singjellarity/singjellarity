@@ -32,6 +32,7 @@ majella.imperial@gmail.com
 - [Heart Arrhythmia Detection in ECG](https://github.com/singjellarity/Heart-Arrhythmia-Detection-in-ECG) - My undergraduate design project.
 - [Vehicle Detection and Counter System](https://github.com/singjellarity/Vehicle-Detection-and-Counter-System) - Python project that does vehicle detection and counting.
 - [Line Follower Robot](https://github.com/singjellarity/Line-Follower-Robot) - Design of a Wheeled Robot Using a Line Sensor and Arduino Uno.
+- [Color Sorting Machine](https://github.com/singjellarity/Color-Sorting-Machine) - Design of a Color Sorting Machine using Arduino Uno and TCS3200 Color Sensor.
 
 <!---
 singjellarity/singjellarity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
