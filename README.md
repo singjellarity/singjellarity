@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEoamIERjuBNw/profile-displaybackgroundimage-shrink_350_1400/0/1699618942169?e=1704931200&v=beta&t=bNkgA6BYXjvI6l_atMxMlGbQ6NiF_SoI4GBnFBCZemE">
+<img src="https://media.licdn.com/dms/image/D5616AQEoamIERjuBNw/profile-displaybackgroundimage-shrink_350_1400/0/1699618942169?e=1711584000&v=beta&t=aFfFuzrWVlV5FRSlCuo19ZUUmjtq-RhmuWw8xi4pYBg">
 
 # 👋 Hi, please call me Majella!
 - 🌱 I’m an aspiring Data Analyst with a degree in Electronics Engineering from the Technological Institute of the Philippines - Quezon City.
@@ -29,6 +29,7 @@ majella.imperial@gmail.com
 
 # View some of my pinned projects below:
 - [PCSO Lottery Case Study](https://github.com/singjellarity/PCSO-Lottery-Case-Study) - A study on the PCSO 6 digit lottery games.
+- [London Bike Sharing Study](https://github.com/singjellarity/London-Bike-Sharing) - A study on the London Bike Sharing dataset available from 2015 to 2017. 
 - [Heart Arrhythmia Detection in ECG](https://github.com/singjellarity/Heart-Arrhythmia-Detection-in-ECG) - My undergraduate design project.
 - [Vehicle Detection and Counter System](https://github.com/singjellarity/Vehicle-Detection-and-Counter-System) - Python project that does vehicle detection and counting.
 - [Line Follower Robot](https://github.com/singjellarity/Line-Follower-Robot) - Design of a Wheeled Robot Using a Line Sensor and Arduino Uno.
